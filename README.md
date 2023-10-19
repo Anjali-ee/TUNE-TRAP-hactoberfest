@@ -7,12 +7,12 @@ TUNE-TRAP is not mere a music player but also a life couch that can help the use
 
 In this project, you will have the opportunity to apply your newly acquired HTML,CSS,Bootstrap and JS skills to create a website based on the theme .
 
-#project asssets
+# project asssets
 All the necessary assets for this project are provided in the project-assets folder. You'll find images, logos, and other resources that you can use to enhance your website's design.
 you are free to add more and utilise your creativity as much you desire.
 
 
-#Task Instructions
+# Task Instructions
 Research: Start by researching what  is this all about. Go through the files thoroughly.
 
 Plan Your Website: Before you start coding, sketch out a rough plan for your website. Decide on the layout, what information you want to include, and how you want to present it. You can use pen and paper or digital tools for this.
@@ -28,7 +28,7 @@ Test Your Website: Test your website in different web browsers to ensure compati
 Submit Your Work: Once you're satisfied with your contribution , submit your project files, including index.html and custom.css, for review.
 
 
-#Tips
+# Tips
 Use proper indentation and comments in your HTML and CSS code to keep it organized and easy to read.
 
 Feel free to experiment with different CSS techniques, but keep the design user-friendly and accessible.
@@ -37,7 +37,7 @@ Don't forget to test your website's responsiveness by resizing your browser wind
 
 Ask for help if you encounter any challenges. The OpenAI community and your fellow students are here to support you.
 
-#Deadline
+# Deadline
 The deadline for this project is 30 november 2023. Make sure to submit your work before the deadline to receive feedback and potentially showcase your project to your peers. You can keep contributing to this ever after.
 
 Good luck, and have fun designing your website! 🎉🌟
